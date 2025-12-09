@@ -4,7 +4,7 @@
 
 import random
 
-# Constants (Pylint wants uppercase for constants)
+# Constants 
 ROCK = "r"
 PAPER = "p"
 SCISSORS = "s"
